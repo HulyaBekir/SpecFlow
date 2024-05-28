@@ -1,0 +1,13 @@
+Summary of the day.
+
+Start a new Test project with NUnit test library.
+Create the base test class.
+
+Task:
+* Create a User model
+* Create a Request / Response model
+* HttpClient Class - Provides a class for sending HTTP requests and receiving HTTP responses from a resource identified by a URI.
+* GET all users
+* Add Authorization
+* Build a Request Body
+* Serialize / Deserialize

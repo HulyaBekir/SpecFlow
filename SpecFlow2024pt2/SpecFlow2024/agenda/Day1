@@ -1,0 +1,31 @@
+Summary of the day.
+
+Introduction.
+What is this course for?
+Course Agenda
+- Software testing fundamentals
+- Mandatory tools for the course
+- C# Fundamentals exercises
+- BDD and SpecFlow explained
+- Creating a Basic Test Automation Framework
+- Final Task
+
+At the end of the day one:
+
+What is Software testing?
+A method to check whether the actual software product matches expected requirements and to ensure that software product is a defect free.
+
+What is Verification?
+Are we building the product right?
+Verification is static testing. It includes documents, design, code and programs.
+
+What is Validation?
+Are we building the right product?
+Validation is a process in which the requirements of the customer are actually met by the software functionality. It includes testing and validating the actual product.
+
+The main types of tests that can be conducted are Functional and Non-functional testing.
+
+What is Git?
+- Local and remote repositories
+- Basic git commands
+- Commiting a change and pushing to the remote repository
